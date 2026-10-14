@@ -16,7 +16,7 @@
 以下のコマンドをターミナルで実行し、Skill ファイル一式をローカルに取得します。
 
 ```bash
-git clone https://github.com/alicialin0420/moomoo-capital-anomaly.git
+git clone https://github.com/hayashi0420/moomoo-capital-anomaly.git
 ```
 
 ### Step 2: Skill ディレクトリへの配置
